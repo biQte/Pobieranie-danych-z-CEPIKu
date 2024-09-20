@@ -27,7 +27,7 @@ node ./dist/src/app.js
 ```
 
 > [!CAUTION]
-> Z racji na limity narzucane przez API CEPIK aplikacja działa długo i zajmuje znaczącą ilość pamięci RAM. Minimalna pamięć zainstalowana w komputerze nie powinna być mniejsza niż 8GB.
+> Z racji na limity narzucane przez API CEPIK aplikacja działa długo i zajmuje znaczącą ilość pamięci RAM. Minimalna pamięć zainstalowana w komputerze nie powinna być mniejsza niż 4GB.
 
 ## Logowanie działania oraz wyjście danych
 

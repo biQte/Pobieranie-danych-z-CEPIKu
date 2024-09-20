@@ -38,4 +38,5 @@ node ./dist/src/app.js
 
 2. Po zakończeniu działania przez aplikację, pobrane dane zapiszą się w pliku ./dist/src/cars.csv który można później zaimportować do aplikacji Excel lub innej preferowanej przez użytkownika
 
-### Proszę o zgłaszanie wszelkich błędów lub sugestii
+> [!IMPORTANT]
+> Proszę o zgłaszanie wszelkich błędów lub sugestii

@@ -73,7 +73,7 @@ export default class CarController {
                     while (retryCount < MAX_RETRIES && !success) {
                         try {
                             carsResponse = await axios.get(
-                                `${API_URL}/pojazdy?wojewodztwo=${voivodeshipCode}&data-od=${startDate}&data-do=${endDate}&typ-daty=1&tylko-zarejestrowanie=true&pokaz-wszystkie-pola=false&fields=marka&fields=model&fields=sposob-produkcji&fields=rok-produkcji&fields=rodzaj-pojazdu&fields=podrodzaj-pojazdu&fields=rodzaj-paliwa&limit=${step}&page=${page}`,
+                                `${API_URL}/pojazdy?wojewodztwo=${voivodeshipCode}&data-od=${startDate}&data-do=${endDate}&typ-daty=1&tylko-zarejestrowane=true&pokaz-wszystkie-pola=false&fields=marka&fields=model&fields=sposob-produkcji&fields=rok-produkcji&fields=rodzaj-pojazdu&fields=podrodzaj-pojazdu&fields=rodzaj-paliwa&limit=${step}&page=${page}`,
                                 {
                                     headers: {
                                         accept: 'application/json',

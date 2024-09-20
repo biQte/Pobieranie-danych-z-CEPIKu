@@ -26,14 +26,14 @@ npm run build
 node ./dist/src/app.js
 ```
 
-> [!NOTE]
+> [!CAUTION]
 > Aplikacja działa długo i zajmuje znaczącą ilość pamięci RAM. Minimalna pamięć zainstalowana w komputerze nie powinna być mniejsza niż 8GB.
 
 ## Logowanie działania oraz wyjście danych
 
 1. W trakcie działania aplikacja na bieżąco informuje o postępach, logi znajdują się w folderze ./dist/src/log w pliku z datą kiedy program pracował.
 
-> [!NOTE]
+> [!TIP]
 > Rozróżniane są dwa typy logów: INFO - informacje z przebiegu działania aplikacji oraz ERROR - błędy napotkane w trakcie działania aplikacji
 
 2. Po zakończeniu działania przez aplikację, pobrane dane zapiszą się w pliku ./dist/src/cars.csv który można później zaimportować do aplikacji Excel lub innej preferowanej przez użytkownika

@@ -1,0 +1,84 @@
+20.09.2024, 08:28:51 INFO: Start downloading voivodeships list
+20.09.2024, 08:28:51 INFO: Fetched all voivodeships
+20.09.2024, 08:28:51 INFO: Start downloading all cars from voivodeship of code: 08
+20.09.2024, 08:29:06 INFO: Start downloading voivodeships list
+20.09.2024, 08:29:06 INFO: Fetched all voivodeships
+20.09.2024, 08:29:06 INFO: Start downloading all cars from voivodeship of code: 08
+20.09.2024, 08:29:47 INFO: Start downloading voivodeships list
+20.09.2024, 08:29:47 INFO: Fetched all voivodeships
+20.09.2024, 08:29:47 INFO: Start downloading all cars from voivodeship of code: 28
+20.09.2024, 08:30:02 INFO: Start downloading voivodeships list
+20.09.2024, 08:30:03 INFO: Fetched all voivodeships
+20.09.2024, 08:30:03 INFO: Start downloading all cars from voivodeship of code: 32
+20.09.2024, 09:19:11 INFO: Start downloading voivodeships list
+20.09.2024, 09:19:12 INFO: Fetched all voivodeships
+20.09.2024, 09:19:12 INFO: Start downloading all cars from voivodeship of code: 06
+20.09.2024, 09:20:35 INFO: Start downloading voivodeships list
+20.09.2024, 09:20:35 INFO: Fetched all voivodeships
+20.09.2024, 09:20:35 INFO: Start downloading all cars from voivodeship of code: 06
+20.09.2024, 09:21:49 ERROR: carsResponse.data.data is not iterable
+20.09.2024, 09:22:30 INFO: Start downloading voivodeships list
+20.09.2024, 09:22:30 INFO: Fetched all voivodeships
+20.09.2024, 09:22:30 INFO: Start downloading all cars from voivodeship of code: 06
+20.09.2024, 09:22:54 ERROR: carsResponse.data.data is not iterable
+20.09.2024, 09:23:39 INFO: Start downloading voivodeships list
+20.09.2024, 09:23:40 INFO: Fetched all voivodeships
+20.09.2024, 09:23:40 INFO: Start downloading all cars from voivodeship of code: 06
+20.09.2024, 09:23:41 ERROR: carsResponse.data.data is not iterable
+20.09.2024, 09:23:55 INFO: Start downloading voivodeships list
+20.09.2024, 09:23:55 INFO: Fetched all voivodeships
+20.09.2024, 09:23:55 INFO: Start downloading all cars from voivodeship of code: 06
+20.09.2024, 09:40:23 ERROR: carsResponse.data.data is not iterable
+20.09.2024, 09:44:29 INFO: Start downloading voivodeships list
+20.09.2024, 09:44:30 INFO: Fetched all voivodeships
+20.09.2024, 09:44:30 INFO: Start downloading all cars from voivodeship of code: 06
+20.09.2024, 09:45:20 INFO: Start downloading voivodeships list
+20.09.2024, 09:45:20 INFO: Fetched all voivodeships
+20.09.2024, 09:45:20 INFO: Start downloading all cars from voivodeship of code: 06
+20.09.2024, 09:46:18 INFO: Start downloading voivodeships list
+20.09.2024, 09:46:18 INFO: Fetched all voivodeships
+20.09.2024, 09:46:18 INFO: Start downloading all cars from voivodeship of code: 06
+20.09.2024, 09:47:48 INFO: Start downloading voivodeships list
+20.09.2024, 09:47:49 INFO: Fetched all voivodeships
+20.09.2024, 09:47:49 INFO: Start downloading all cars from voivodeship of code: 06
+20.09.2024, 09:48:06 INFO: Start downloading voivodeships list
+20.09.2024, 09:48:06 INFO: Fetched all voivodeships
+20.09.2024, 09:48:06 INFO: Start downloading all cars from voivodeship of code: 06
+20.09.2024, 09:48:42 INFO: Start downloading voivodeships list
+20.09.2024, 09:48:42 INFO: Fetched all voivodeships
+20.09.2024, 09:48:42 INFO: Start downloading all cars from voivodeship of code: 06
+20.09.2024, 09:49:19 INFO: Start downloading voivodeships list
+20.09.2024, 09:49:19 INFO: Fetched all voivodeships
+20.09.2024, 09:49:19 INFO: Start downloading all cars from voivodeship of code: 06
+20.09.2024, 09:50:20 ERROR: carsResponse.data.data is not iterable
+20.09.2024, 09:55:40 INFO: Start downloading voivodeships list
+20.09.2024, 09:55:41 INFO: Fetched all voivodeships
+20.09.2024, 09:55:41 INFO: Start downloading all cars from voivodeship of code: 06
+20.09.2024, 09:59:14 ERROR: Failed attempt 1 for page 41: Request failed with status code 404
+20.09.2024, 10:00:21 ERROR: Failed attempt 1 for page 76: Incomplete response: data is undefined.
+20.09.2024, 10:00:47 ERROR: Failed attempt 1 for page 89: Request failed with status code 404
+20.09.2024, 10:00:47 ERROR: Failed attempt 2 for page 89: Request failed with status code 404
+20.09.2024, 10:25:02 INFO: Start downloading voivodeships list
+20.09.2024, 10:25:02 INFO: Fetched all voivodeships
+20.09.2024, 10:25:02 INFO: Start downloading all cars from voivodeship of code: 06
+20.09.2024, 10:27:15 INFO: Start downloading voivodeships list
+20.09.2024, 10:27:16 INFO: Fetched all voivodeships
+20.09.2024, 10:27:16 INFO: Start downloading all cars from voivodeship of code: 02
+20.09.2024, 10:37:44 ERROR: Failed attempt 1 for page 58: Request failed with status code 404
+20.09.2024, 10:38:21 ERROR: Failed attempt 1 for page 73: Request failed with status code 404
+20.09.2024, 10:47:50 ERROR: Failed attempt 1 for page 54: Incomplete response: data is undefined.
+20.09.2024, 10:49:08 INFO: Start downloading voivodeships list
+20.09.2024, 10:49:09 INFO: Fetched all voivodeships
+20.09.2024, 10:49:09 INFO: Start downloading all cars from voivodeship of code: 02
+20.09.2024, 11:57:52 INFO: Start downloading voivodeships list
+20.09.2024, 11:57:52 INFO: Fetched all voivodeships
+20.09.2024, 11:57:52 INFO: Start downloading all cars from voivodeship of code: 02
+20.09.2024, 11:58:32 INFO: Start downloading voivodeships list
+20.09.2024, 11:58:32 INFO: Fetched all voivodeships
+20.09.2024, 11:58:32 INFO: Start downloading all cars from voivodeship of code: 02
+20.09.2024, 11:59:10 INFO: Start downloading voivodeships list
+20.09.2024, 11:59:10 INFO: Fetched all voivodeships
+20.09.2024, 11:59:10 INFO: Start downloading all cars from voivodeship of code: 02
+20.09.2024, 11:59:33 INFO: Start downloading voivodeships list
+20.09.2024, 11:59:33 INFO: Fetched all voivodeships
+20.09.2024, 11:59:33 INFO: Start downloading all cars from voivodeship of code: 02

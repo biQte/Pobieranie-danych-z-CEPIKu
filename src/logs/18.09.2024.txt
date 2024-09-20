@@ -1,0 +1,954 @@
+18.09.2024, 09:51:09 INFO: Start downloading voivodeships list
+18.09.2024, 09:51:10 INFO: Fetched all voivodeships
+18.09.2024, 09:52:12 INFO: Start downloading voivodeships list
+18.09.2024, 09:52:12 INFO: Fetched all voivodeships
+18.09.2024, 09:52:12 INFO: Start downloading all cars from voivodeship of code: 02
+18.09.2024, 09:52:12 INFO: Fetched all cars from voivodeship of code: 02
+18.09.2024, 09:52:12 INFO: Start downloading all cars from voivodeship of code: 04
+18.09.2024, 09:52:12 INFO: Fetched all cars from voivodeship of code: 04
+18.09.2024, 09:52:12 INFO: Start downloading all cars from voivodeship of code: 06
+18.09.2024, 09:52:12 INFO: Fetched all cars from voivodeship of code: 06
+18.09.2024, 09:52:12 INFO: Start downloading all cars from voivodeship of code: 08
+18.09.2024, 09:52:12 INFO: Fetched all cars from voivodeship of code: 08
+18.09.2024, 09:52:12 INFO: Start downloading all cars from voivodeship of code: 10
+18.09.2024, 09:52:12 INFO: Fetched all cars from voivodeship of code: 10
+18.09.2024, 09:52:12 INFO: Start downloading all cars from voivodeship of code: 12
+18.09.2024, 09:52:12 INFO: Fetched all cars from voivodeship of code: 12
+18.09.2024, 09:52:12 INFO: Start downloading all cars from voivodeship of code: 14
+18.09.2024, 09:52:12 INFO: Fetched all cars from voivodeship of code: 14
+18.09.2024, 09:52:12 INFO: Start downloading all cars from voivodeship of code: 16
+18.09.2024, 09:52:12 INFO: Fetched all cars from voivodeship of code: 16
+18.09.2024, 09:52:12 INFO: Start downloading all cars from voivodeship of code: 18
+18.09.2024, 09:52:12 INFO: Fetched all cars from voivodeship of code: 18
+18.09.2024, 09:52:12 INFO: Start downloading all cars from voivodeship of code: 20
+18.09.2024, 09:52:12 INFO: Fetched all cars from voivodeship of code: 20
+18.09.2024, 09:52:12 INFO: Start downloading all cars from voivodeship of code: 22
+18.09.2024, 09:52:12 INFO: Fetched all cars from voivodeship of code: 22
+18.09.2024, 09:52:12 INFO: Start downloading all cars from voivodeship of code: 24
+18.09.2024, 09:52:12 INFO: Fetched all cars from voivodeship of code: 24
+18.09.2024, 09:52:12 INFO: Start downloading all cars from voivodeship of code: 26
+18.09.2024, 09:52:12 INFO: Fetched all cars from voivodeship of code: 26
+18.09.2024, 09:52:12 INFO: Start downloading all cars from voivodeship of code: 28
+18.09.2024, 09:52:12 INFO: Fetched all cars from voivodeship of code: 28
+18.09.2024, 09:52:12 INFO: Start downloading all cars from voivodeship of code: 30
+18.09.2024, 09:52:12 INFO: Fetched all cars from voivodeship of code: 30
+18.09.2024, 09:52:12 INFO: Start downloading all cars from voivodeship of code: 32
+18.09.2024, 09:52:12 INFO: Fetched all cars from voivodeship of code: 32
+18.09.2024, 09:52:42 INFO: Start downloading voivodeships list
+18.09.2024, 09:52:42 INFO: Fetched all voivodeships
+18.09.2024, 09:52:42 INFO: Start downloading all cars from voivodeship of code: 02
+18.09.2024, 09:52:42 INFO: Fetched all cars from voivodeship of code: 02
+18.09.2024, 09:52:42 INFO: Start downloading all cars from voivodeship of code: 04
+18.09.2024, 09:52:42 INFO: Fetched all cars from voivodeship of code: 04
+18.09.2024, 09:52:42 INFO: Start downloading all cars from voivodeship of code: 06
+18.09.2024, 09:52:42 INFO: Fetched all cars from voivodeship of code: 06
+18.09.2024, 09:52:42 INFO: Start downloading all cars from voivodeship of code: 08
+18.09.2024, 09:52:42 INFO: Fetched all cars from voivodeship of code: 08
+18.09.2024, 09:52:42 INFO: Start downloading all cars from voivodeship of code: 10
+18.09.2024, 09:52:42 INFO: Fetched all cars from voivodeship of code: 10
+18.09.2024, 09:52:42 INFO: Start downloading all cars from voivodeship of code: 12
+18.09.2024, 09:52:42 INFO: Fetched all cars from voivodeship of code: 12
+18.09.2024, 09:52:42 INFO: Start downloading all cars from voivodeship of code: 14
+18.09.2024, 09:52:42 INFO: Fetched all cars from voivodeship of code: 14
+18.09.2024, 09:52:42 INFO: Start downloading all cars from voivodeship of code: 16
+18.09.2024, 09:52:42 INFO: Fetched all cars from voivodeship of code: 16
+18.09.2024, 09:52:42 INFO: Start downloading all cars from voivodeship of code: 18
+18.09.2024, 09:52:42 INFO: Fetched all cars from voivodeship of code: 18
+18.09.2024, 09:52:42 INFO: Start downloading all cars from voivodeship of code: 20
+18.09.2024, 09:52:42 INFO: Fetched all cars from voivodeship of code: 20
+18.09.2024, 09:52:42 INFO: Start downloading all cars from voivodeship of code: 22
+18.09.2024, 09:52:42 INFO: Fetched all cars from voivodeship of code: 22
+18.09.2024, 09:52:42 INFO: Start downloading all cars from voivodeship of code: 24
+18.09.2024, 09:52:42 INFO: Fetched all cars from voivodeship of code: 24
+18.09.2024, 09:52:42 INFO: Start downloading all cars from voivodeship of code: 26
+18.09.2024, 09:52:42 INFO: Fetched all cars from voivodeship of code: 26
+18.09.2024, 09:52:42 INFO: Start downloading all cars from voivodeship of code: 28
+18.09.2024, 09:52:42 INFO: Fetched all cars from voivodeship of code: 28
+18.09.2024, 09:52:42 INFO: Start downloading all cars from voivodeship of code: 30
+18.09.2024, 09:52:42 INFO: Fetched all cars from voivodeship of code: 30
+18.09.2024, 09:52:42 INFO: Start downloading all cars from voivodeship of code: 32
+18.09.2024, 09:52:42 INFO: Fetched all cars from voivodeship of code: 32
+18.09.2024, 09:53:46 INFO: Start downloading voivodeships list
+18.09.2024, 09:53:46 INFO: Fetched all voivodeships
+18.09.2024, 09:54:00 INFO: Start downloading voivodeships list
+18.09.2024, 09:54:00 INFO: Fetched all voivodeships
+18.09.2024, 09:54:10 INFO: Start downloading voivodeships list
+18.09.2024, 09:54:10 INFO: Fetched all voivodeships
+18.09.2024, 09:54:10 INFO: Start downloading all cars from voivodeship of code: 02
+18.09.2024, 09:54:10 INFO: Fetched all cars from voivodeship of code: 02
+18.09.2024, 09:54:10 INFO: Start downloading all cars from voivodeship of code: 04
+18.09.2024, 09:54:10 INFO: Fetched all cars from voivodeship of code: 04
+18.09.2024, 09:54:10 INFO: Start downloading all cars from voivodeship of code: 06
+18.09.2024, 09:54:10 INFO: Fetched all cars from voivodeship of code: 06
+18.09.2024, 09:54:10 INFO: Start downloading all cars from voivodeship of code: 08
+18.09.2024, 09:54:10 INFO: Fetched all cars from voivodeship of code: 08
+18.09.2024, 09:54:10 INFO: Start downloading all cars from voivodeship of code: 10
+18.09.2024, 09:54:10 INFO: Fetched all cars from voivodeship of code: 10
+18.09.2024, 09:54:10 INFO: Start downloading all cars from voivodeship of code: 12
+18.09.2024, 09:54:10 INFO: Fetched all cars from voivodeship of code: 12
+18.09.2024, 09:54:10 INFO: Start downloading all cars from voivodeship of code: 14
+18.09.2024, 09:54:10 INFO: Fetched all cars from voivodeship of code: 14
+18.09.2024, 09:54:10 INFO: Start downloading all cars from voivodeship of code: 16
+18.09.2024, 09:54:10 INFO: Fetched all cars from voivodeship of code: 16
+18.09.2024, 09:54:10 INFO: Start downloading all cars from voivodeship of code: 18
+18.09.2024, 09:54:10 INFO: Fetched all cars from voivodeship of code: 18
+18.09.2024, 09:54:10 INFO: Start downloading all cars from voivodeship of code: 20
+18.09.2024, 09:54:10 INFO: Fetched all cars from voivodeship of code: 20
+18.09.2024, 09:54:10 INFO: Start downloading all cars from voivodeship of code: 22
+18.09.2024, 09:54:10 INFO: Fetched all cars from voivodeship of code: 22
+18.09.2024, 09:54:10 INFO: Start downloading all cars from voivodeship of code: 24
+18.09.2024, 09:54:10 INFO: Fetched all cars from voivodeship of code: 24
+18.09.2024, 09:54:10 INFO: Start downloading all cars from voivodeship of code: 26
+18.09.2024, 09:54:10 INFO: Fetched all cars from voivodeship of code: 26
+18.09.2024, 09:54:10 INFO: Start downloading all cars from voivodeship of code: 28
+18.09.2024, 09:54:10 INFO: Fetched all cars from voivodeship of code: 28
+18.09.2024, 09:54:10 INFO: Start downloading all cars from voivodeship of code: 30
+18.09.2024, 09:54:10 INFO: Fetched all cars from voivodeship of code: 30
+18.09.2024, 09:54:10 INFO: Start downloading all cars from voivodeship of code: 32
+18.09.2024, 09:54:10 INFO: Fetched all cars from voivodeship of code: 32
+18.09.2024, 09:54:15 INFO: Start downloading voivodeships list
+18.09.2024, 09:54:15 INFO: Fetched all voivodeships
+18.09.2024, 09:54:15 INFO: Start downloading all cars from voivodeship of code: 02
+18.09.2024, 09:54:15 INFO: Fetched all cars from voivodeship of code: 02
+18.09.2024, 09:54:15 INFO: Start downloading all cars from voivodeship of code: 04
+18.09.2024, 09:54:15 INFO: Fetched all cars from voivodeship of code: 04
+18.09.2024, 09:54:15 INFO: Start downloading all cars from voivodeship of code: 06
+18.09.2024, 09:54:15 INFO: Fetched all cars from voivodeship of code: 06
+18.09.2024, 09:54:15 INFO: Start downloading all cars from voivodeship of code: 08
+18.09.2024, 09:54:15 INFO: Fetched all cars from voivodeship of code: 08
+18.09.2024, 09:54:15 INFO: Start downloading all cars from voivodeship of code: 10
+18.09.2024, 09:54:15 INFO: Fetched all cars from voivodeship of code: 10
+18.09.2024, 09:54:15 INFO: Start downloading all cars from voivodeship of code: 12
+18.09.2024, 09:54:15 INFO: Fetched all cars from voivodeship of code: 12
+18.09.2024, 09:54:15 INFO: Start downloading all cars from voivodeship of code: 14
+18.09.2024, 09:54:15 INFO: Fetched all cars from voivodeship of code: 14
+18.09.2024, 09:54:15 INFO: Start downloading all cars from voivodeship of code: 16
+18.09.2024, 09:54:15 INFO: Fetched all cars from voivodeship of code: 16
+18.09.2024, 09:54:15 INFO: Start downloading all cars from voivodeship of code: 18
+18.09.2024, 09:54:15 INFO: Fetched all cars from voivodeship of code: 18
+18.09.2024, 09:54:15 INFO: Start downloading all cars from voivodeship of code: 20
+18.09.2024, 09:54:15 INFO: Fetched all cars from voivodeship of code: 20
+18.09.2024, 09:54:15 INFO: Start downloading all cars from voivodeship of code: 22
+18.09.2024, 09:54:15 INFO: Fetched all cars from voivodeship of code: 22
+18.09.2024, 09:54:15 INFO: Start downloading all cars from voivodeship of code: 24
+18.09.2024, 09:54:15 INFO: Fetched all cars from voivodeship of code: 24
+18.09.2024, 09:54:15 INFO: Start downloading all cars from voivodeship of code: 26
+18.09.2024, 09:54:15 INFO: Fetched all cars from voivodeship of code: 26
+18.09.2024, 09:54:15 INFO: Start downloading all cars from voivodeship of code: 28
+18.09.2024, 09:54:15 INFO: Fetched all cars from voivodeship of code: 28
+18.09.2024, 09:54:15 INFO: Start downloading all cars from voivodeship of code: 30
+18.09.2024, 09:54:15 INFO: Fetched all cars from voivodeship of code: 30
+18.09.2024, 09:54:15 INFO: Start downloading all cars from voivodeship of code: 32
+18.09.2024, 09:54:15 INFO: Fetched all cars from voivodeship of code: 32
+18.09.2024, 09:54:55 INFO: Start downloading voivodeships list
+18.09.2024, 09:54:55 INFO: Fetched all voivodeships
+18.09.2024, 09:54:55 INFO: Start downloading all cars from voivodeship of code: 02
+18.09.2024, 09:54:55 INFO: Fetched all cars from voivodeship of code: 02
+18.09.2024, 09:54:55 INFO: Start downloading all cars from voivodeship of code: 04
+18.09.2024, 09:54:55 INFO: Fetched all cars from voivodeship of code: 04
+18.09.2024, 09:54:55 INFO: Start downloading all cars from voivodeship of code: 06
+18.09.2024, 09:54:55 INFO: Fetched all cars from voivodeship of code: 06
+18.09.2024, 09:54:55 INFO: Start downloading all cars from voivodeship of code: 08
+18.09.2024, 09:54:55 INFO: Fetched all cars from voivodeship of code: 08
+18.09.2024, 09:54:55 INFO: Start downloading all cars from voivodeship of code: 10
+18.09.2024, 09:54:55 INFO: Fetched all cars from voivodeship of code: 10
+18.09.2024, 09:54:55 INFO: Start downloading all cars from voivodeship of code: 12
+18.09.2024, 09:54:55 INFO: Fetched all cars from voivodeship of code: 12
+18.09.2024, 09:54:55 INFO: Start downloading all cars from voivodeship of code: 14
+18.09.2024, 09:54:55 INFO: Fetched all cars from voivodeship of code: 14
+18.09.2024, 09:54:55 INFO: Start downloading all cars from voivodeship of code: 16
+18.09.2024, 09:54:55 INFO: Fetched all cars from voivodeship of code: 16
+18.09.2024, 09:54:55 INFO: Start downloading all cars from voivodeship of code: 18
+18.09.2024, 09:54:55 INFO: Fetched all cars from voivodeship of code: 18
+18.09.2024, 09:54:55 INFO: Start downloading all cars from voivodeship of code: 20
+18.09.2024, 09:54:55 INFO: Fetched all cars from voivodeship of code: 20
+18.09.2024, 09:54:55 INFO: Start downloading all cars from voivodeship of code: 22
+18.09.2024, 09:54:55 INFO: Fetched all cars from voivodeship of code: 22
+18.09.2024, 09:54:55 INFO: Start downloading all cars from voivodeship of code: 24
+18.09.2024, 09:54:55 INFO: Fetched all cars from voivodeship of code: 24
+18.09.2024, 09:54:55 INFO: Start downloading all cars from voivodeship of code: 26
+18.09.2024, 09:54:55 INFO: Fetched all cars from voivodeship of code: 26
+18.09.2024, 09:54:55 INFO: Start downloading all cars from voivodeship of code: 28
+18.09.2024, 09:54:55 INFO: Fetched all cars from voivodeship of code: 28
+18.09.2024, 09:54:55 INFO: Start downloading all cars from voivodeship of code: 30
+18.09.2024, 09:54:55 INFO: Fetched all cars from voivodeship of code: 30
+18.09.2024, 09:54:55 INFO: Start downloading all cars from voivodeship of code: 32
+18.09.2024, 09:54:55 INFO: Fetched all cars from voivodeship of code: 32
+18.09.2024, 10:07:46 INFO: Start downloading voivodeships list
+18.09.2024, 10:07:46 INFO: Fetched all voivodeships
+18.09.2024, 10:07:46 INFO: Start downloading all cars from voivodeship of code: 02
+18.09.2024, 10:07:46 ERROR: ERR_BAD_REQUEST, AxiosError, AxiosError: Request failed with status code 404
+    at settle (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\settle.js:19:12)
+    at IncomingMessage.handleStreamEnd (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\adapters\http.js:599:11)
+    at IncomingMessage.emit (node:events:530:35)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21)
+    at Axios.request (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\Axios.js:45:41)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5), undefined, [object Object], Request failed with status code 404
+18.09.2024, 10:07:46 INFO: Start downloading all cars from voivodeship of code: 04
+18.09.2024, 10:07:46 ERROR: ERR_BAD_REQUEST, AxiosError, AxiosError: Request failed with status code 404
+    at settle (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\settle.js:19:12)
+    at IncomingMessage.handleStreamEnd (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\adapters\http.js:599:11)
+    at IncomingMessage.emit (node:events:530:35)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21)
+    at Axios.request (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\Axios.js:45:41)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5), undefined, [object Object], Request failed with status code 404
+18.09.2024, 10:07:46 INFO: Start downloading all cars from voivodeship of code: 06
+18.09.2024, 10:07:46 ERROR: ERR_BAD_REQUEST, AxiosError, AxiosError: Request failed with status code 404
+    at settle (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\settle.js:19:12)
+    at IncomingMessage.handleStreamEnd (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\adapters\http.js:599:11)
+    at IncomingMessage.emit (node:events:530:35)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21)
+    at Axios.request (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\Axios.js:45:41)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5), undefined, [object Object], Request failed with status code 404
+18.09.2024, 10:07:46 INFO: Start downloading all cars from voivodeship of code: 08
+18.09.2024, 10:07:46 ERROR: ERR_BAD_REQUEST, AxiosError, AxiosError: Request failed with status code 404
+    at settle (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\settle.js:19:12)
+    at IncomingMessage.handleStreamEnd (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\adapters\http.js:599:11)
+    at IncomingMessage.emit (node:events:530:35)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21)
+    at Axios.request (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\Axios.js:45:41)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5), undefined, [object Object], Request failed with status code 404
+18.09.2024, 10:07:46 INFO: Start downloading all cars from voivodeship of code: 10
+18.09.2024, 10:07:46 ERROR: ERR_BAD_REQUEST, AxiosError, AxiosError: Request failed with status code 404
+    at settle (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\settle.js:19:12)
+    at IncomingMessage.handleStreamEnd (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\adapters\http.js:599:11)
+    at IncomingMessage.emit (node:events:530:35)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21)
+    at Axios.request (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\Axios.js:45:41)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5), undefined, [object Object], Request failed with status code 404
+18.09.2024, 10:07:46 INFO: Start downloading all cars from voivodeship of code: 12
+18.09.2024, 10:07:46 ERROR: ERR_BAD_REQUEST, AxiosError, AxiosError: Request failed with status code 404
+    at settle (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\settle.js:19:12)
+    at IncomingMessage.handleStreamEnd (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\adapters\http.js:599:11)
+    at IncomingMessage.emit (node:events:530:35)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21)
+    at Axios.request (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\Axios.js:45:41)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5), undefined, [object Object], Request failed with status code 404
+18.09.2024, 10:07:46 INFO: Start downloading all cars from voivodeship of code: 14
+18.09.2024, 10:07:46 ERROR: ERR_BAD_REQUEST, AxiosError, AxiosError: Request failed with status code 404
+    at settle (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\settle.js:19:12)
+    at IncomingMessage.handleStreamEnd (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\adapters\http.js:599:11)
+    at IncomingMessage.emit (node:events:530:35)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21)
+    at Axios.request (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\Axios.js:45:41)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5), undefined, [object Object], Request failed with status code 404
+18.09.2024, 10:07:46 INFO: Start downloading all cars from voivodeship of code: 16
+18.09.2024, 10:07:46 ERROR: ERR_BAD_REQUEST, AxiosError, AxiosError: Request failed with status code 404
+    at settle (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\settle.js:19:12)
+    at IncomingMessage.handleStreamEnd (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\adapters\http.js:599:11)
+    at IncomingMessage.emit (node:events:530:35)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21)
+    at Axios.request (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\Axios.js:45:41)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5), undefined, [object Object], Request failed with status code 404
+18.09.2024, 10:07:46 INFO: Start downloading all cars from voivodeship of code: 18
+18.09.2024, 10:07:46 ERROR: ERR_BAD_REQUEST, AxiosError, AxiosError: Request failed with status code 404
+    at settle (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\settle.js:19:12)
+    at IncomingMessage.handleStreamEnd (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\adapters\http.js:599:11)
+    at IncomingMessage.emit (node:events:530:35)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21)
+    at Axios.request (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\Axios.js:45:41)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5), undefined, [object Object], Request failed with status code 404
+18.09.2024, 10:07:46 INFO: Start downloading all cars from voivodeship of code: 20
+18.09.2024, 10:07:46 ERROR: ERR_BAD_REQUEST, AxiosError, AxiosError: Request failed with status code 404
+    at settle (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\settle.js:19:12)
+    at IncomingMessage.handleStreamEnd (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\adapters\http.js:599:11)
+    at IncomingMessage.emit (node:events:530:35)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21)
+    at Axios.request (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\Axios.js:45:41)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5), undefined, [object Object], Request failed with status code 404
+18.09.2024, 10:07:46 INFO: Start downloading all cars from voivodeship of code: 22
+18.09.2024, 10:07:46 ERROR: ERR_BAD_REQUEST, AxiosError, AxiosError: Request failed with status code 404
+    at settle (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\settle.js:19:12)
+    at IncomingMessage.handleStreamEnd (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\adapters\http.js:599:11)
+    at IncomingMessage.emit (node:events:530:35)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21)
+    at Axios.request (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\Axios.js:45:41)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5), undefined, [object Object], Request failed with status code 404
+18.09.2024, 10:07:46 INFO: Start downloading all cars from voivodeship of code: 24
+18.09.2024, 10:07:46 ERROR: ERR_BAD_REQUEST, AxiosError, AxiosError: Request failed with status code 404
+    at settle (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\settle.js:19:12)
+    at IncomingMessage.handleStreamEnd (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\adapters\http.js:599:11)
+    at IncomingMessage.emit (node:events:530:35)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21)
+    at Axios.request (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\Axios.js:45:41)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5), undefined, [object Object], Request failed with status code 404
+18.09.2024, 10:07:46 INFO: Start downloading all cars from voivodeship of code: 26
+18.09.2024, 10:07:46 ERROR: ERR_BAD_REQUEST, AxiosError, AxiosError: Request failed with status code 404
+    at settle (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\settle.js:19:12)
+    at IncomingMessage.handleStreamEnd (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\adapters\http.js:599:11)
+    at IncomingMessage.emit (node:events:530:35)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21)
+    at Axios.request (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\Axios.js:45:41)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5), undefined, [object Object], Request failed with status code 404
+18.09.2024, 10:07:46 INFO: Start downloading all cars from voivodeship of code: 28
+18.09.2024, 10:07:46 ERROR: ERR_BAD_REQUEST, AxiosError, AxiosError: Request failed with status code 404
+    at settle (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\settle.js:19:12)
+    at IncomingMessage.handleStreamEnd (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\adapters\http.js:599:11)
+    at IncomingMessage.emit (node:events:530:35)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21)
+    at Axios.request (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\Axios.js:45:41)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5), undefined, [object Object], Request failed with status code 404
+18.09.2024, 10:07:46 INFO: Start downloading all cars from voivodeship of code: 30
+18.09.2024, 10:07:46 ERROR: ERR_BAD_REQUEST, AxiosError, AxiosError: Request failed with status code 404
+    at settle (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\settle.js:19:12)
+    at IncomingMessage.handleStreamEnd (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\adapters\http.js:599:11)
+    at IncomingMessage.emit (node:events:530:35)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21)
+    at Axios.request (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\Axios.js:45:41)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5), undefined, [object Object], Request failed with status code 404
+18.09.2024, 10:07:46 INFO: Start downloading all cars from voivodeship of code: 32
+18.09.2024, 10:07:46 ERROR: ERR_BAD_REQUEST, AxiosError, AxiosError: Request failed with status code 404
+    at settle (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\settle.js:19:12)
+    at IncomingMessage.handleStreamEnd (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\adapters\http.js:599:11)
+    at IncomingMessage.emit (node:events:530:35)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21)
+    at Axios.request (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\Axios.js:45:41)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5), undefined, [object Object], Request failed with status code 404
+18.09.2024, 10:09:39 INFO: Start downloading voivodeships list
+18.09.2024, 10:09:39 INFO: Fetched all voivodeships
+18.09.2024, 10:09:39 INFO: Start downloading all cars from voivodeship of code: 02
+18.09.2024, 10:10:00 INFO: Start downloading voivodeships list
+18.09.2024, 10:10:00 INFO: Fetched all voivodeships
+18.09.2024, 10:10:00 INFO: Start downloading all cars from voivodeship of code: 02
+18.09.2024, 10:24:15 INFO: Start downloading voivodeships list
+18.09.2024, 10:24:15 INFO: Fetched all voivodeships
+18.09.2024, 10:24:15 INFO: Start downloading all cars from voivodeship of code: 02
+18.09.2024, 10:24:47 INFO: Start downloading voivodeships list
+18.09.2024, 10:24:48 INFO: Fetched all voivodeships
+18.09.2024, 10:24:48 INFO: Start downloading all cars from voivodeship of code: 02
+18.09.2024, 10:25:09 INFO: Start downloading voivodeships list
+18.09.2024, 10:25:09 INFO: Fetched all voivodeships
+18.09.2024, 10:25:09 INFO: Start downloading all cars from voivodeship of code: 02
+18.09.2024, 10:25:40 INFO: Start downloading voivodeships list
+18.09.2024, 10:25:40 INFO: Fetched all voivodeships
+18.09.2024, 10:25:40 INFO: Start downloading all cars from voivodeship of code: 02
+18.09.2024, 10:26:32 INFO: Start downloading voivodeships list
+18.09.2024, 10:26:32 INFO: Fetched all voivodeships
+18.09.2024, 10:26:32 INFO: Start downloading all cars from voivodeship of code: 02
+18.09.2024, 10:27:49 INFO: Start downloading voivodeships list
+18.09.2024, 10:27:49 INFO: Fetched all voivodeships
+18.09.2024, 10:27:49 INFO: Start downloading all cars from voivodeship of code: 02
+18.09.2024, 10:28:20 INFO: Start downloading voivodeships list
+18.09.2024, 10:28:21 INFO: Fetched all voivodeships
+18.09.2024, 10:28:21 INFO: Start downloading all cars from voivodeship of code: 02
+18.09.2024, 10:28:52 INFO: Start downloading voivodeships list
+18.09.2024, 10:28:52 INFO: Fetched all voivodeships
+18.09.2024, 10:28:52 INFO: Start downloading all cars from voivodeship of code: 02
+18.09.2024, 10:29:50 INFO: Start downloading voivodeships list
+18.09.2024, 10:29:50 INFO: Fetched all voivodeships
+18.09.2024, 10:29:50 INFO: Start downloading all cars from voivodeship of code: 02
+18.09.2024, 10:43:48 INFO: Start downloading voivodeships list
+18.09.2024, 10:43:48 INFO: Fetched all voivodeships
+18.09.2024, 10:43:48 INFO: Start downloading all cars from voivodeship of code: 02
+18.09.2024, 10:45:11 INFO: Start downloading voivodeships list
+18.09.2024, 10:45:12 INFO: Fetched all voivodeships
+18.09.2024, 10:45:12 INFO: Start downloading all cars from voivodeship of code: 02
+18.09.2024, 10:47:17 INFO: Start downloading voivodeships list
+18.09.2024, 10:47:18 INFO: Fetched all voivodeships
+18.09.2024, 10:47:18 INFO: Start downloading all cars from voivodeship of code: 02
+18.09.2024, 10:48:46 INFO: Start downloading voivodeships list
+18.09.2024, 10:48:46 INFO: Fetched all voivodeships
+18.09.2024, 10:48:46 INFO: Start downloading all cars from voivodeship of code: 02
+18.09.2024, 10:54:44 INFO: Start downloading voivodeships list
+18.09.2024, 10:54:44 INFO: Fetched all voivodeships
+18.09.2024, 10:54:44 INFO: Start downloading all cars from voivodeship of code: 02
+18.09.2024, 10:55:12 INFO: Start downloading voivodeships list
+18.09.2024, 10:55:13 INFO: Fetched all voivodeships
+18.09.2024, 10:55:13 INFO: Start downloading all cars from voivodeship of code: 02
+18.09.2024, 11:05:36 INFO: Start downloading voivodeships list
+18.09.2024, 11:05:36 INFO: Fetched all voivodeships
+18.09.2024, 11:05:36 INFO: Start downloading all cars from voivodeship of code: 02
+18.09.2024, 11:06:37 INFO: Start downloading voivodeships list
+18.09.2024, 11:06:38 INFO: Fetched all voivodeships
+18.09.2024, 11:06:38 INFO: Start downloading all cars from voivodeship of code: 02
+18.09.2024, 11:10:00 INFO: Start downloading voivodeships list
+18.09.2024, 11:10:00 INFO: Fetched all voivodeships
+18.09.2024, 11:10:00 INFO: Start downloading all cars from voivodeship of code: 02
+18.09.2024, 11:12:12 INFO: Start downloading voivodeships list
+18.09.2024, 11:12:12 INFO: Fetched all voivodeships
+18.09.2024, 11:12:12 INFO: Start downloading all cars from voivodeship of code: 02
+18.09.2024, 11:13:50 INFO: Start downloading voivodeships list
+18.09.2024, 11:13:50 INFO: Fetched all voivodeships
+18.09.2024, 11:13:50 INFO: Start downloading all cars from voivodeship of code: 02
+18.09.2024, 11:13:56 INFO: Start downloading voivodeships list
+18.09.2024, 11:13:56 INFO: Fetched all voivodeships
+18.09.2024, 11:13:56 INFO: Start downloading all cars from voivodeship of code: 02
+18.09.2024, 11:16:17 INFO: Start downloading voivodeships list
+18.09.2024, 11:16:17 INFO: Fetched all voivodeships
+18.09.2024, 11:16:17 INFO: Start downloading all cars from voivodeship of code: 02
+18.09.2024, 11:17:09 INFO: Start downloading voivodeships list
+18.09.2024, 11:17:09 INFO: Fetched all voivodeships
+18.09.2024, 11:17:09 INFO: Start downloading all cars from voivodeship of code: 02
+18.09.2024, 11:20:19 ERROR: ERR_BAD_REQUEST, AxiosError, AxiosError: Request failed with status code 429
+    at settle (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\settle.js:19:12)
+    at IncomingMessage.handleStreamEnd (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\adapters\http.js:599:11)
+    at IncomingMessage.emit (node:events:530:35)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21)
+    at Axios.request (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\Axios.js:45:41)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5), undefined, [object Object], Request failed with status code 429
+18.09.2024, 11:20:19 INFO: Start downloading all cars from voivodeship of code: 04
+18.09.2024, 11:20:19 ERROR: ERR_BAD_REQUEST, AxiosError, AxiosError: Request failed with status code 429
+    at settle (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\settle.js:19:12)
+    at IncomingMessage.handleStreamEnd (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\adapters\http.js:599:11)
+    at IncomingMessage.emit (node:events:530:35)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21)
+    at Axios.request (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\Axios.js:45:41)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5), undefined, [object Object], Request failed with status code 429
+18.09.2024, 11:20:19 INFO: Start downloading all cars from voivodeship of code: 06
+18.09.2024, 11:20:19 ERROR: ERR_BAD_REQUEST, AxiosError, AxiosError: Request failed with status code 429
+    at settle (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\settle.js:19:12)
+    at IncomingMessage.handleStreamEnd (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\adapters\http.js:599:11)
+    at IncomingMessage.emit (node:events:530:35)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21)
+    at Axios.request (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\Axios.js:45:41)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5), undefined, [object Object], Request failed with status code 429
+18.09.2024, 11:20:19 INFO: Start downloading all cars from voivodeship of code: 08
+18.09.2024, 11:20:22 ERROR: ERR_BAD_REQUEST, AxiosError, AxiosError: Request failed with status code 429
+    at settle (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\settle.js:19:12)
+    at IncomingMessage.handleStreamEnd (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\adapters\http.js:599:11)
+    at IncomingMessage.emit (node:events:530:35)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21)
+    at Axios.request (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\Axios.js:45:41)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5), undefined, [object Object], Request failed with status code 429
+18.09.2024, 11:20:22 INFO: Start downloading all cars from voivodeship of code: 10
+18.09.2024, 11:20:22 ERROR: ERR_BAD_REQUEST, AxiosError, AxiosError: Request failed with status code 429
+    at settle (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\settle.js:19:12)
+    at IncomingMessage.handleStreamEnd (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\adapters\http.js:599:11)
+    at IncomingMessage.emit (node:events:530:35)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21)
+    at Axios.request (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\Axios.js:45:41)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5), undefined, [object Object], Request failed with status code 429
+18.09.2024, 11:20:22 INFO: Start downloading all cars from voivodeship of code: 12
+18.09.2024, 11:20:22 ERROR: ERR_BAD_REQUEST, AxiosError, AxiosError: Request failed with status code 429
+    at settle (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\settle.js:19:12)
+    at IncomingMessage.handleStreamEnd (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\adapters\http.js:599:11)
+    at IncomingMessage.emit (node:events:530:35)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21)
+    at Axios.request (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\Axios.js:45:41)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5), undefined, [object Object], Request failed with status code 429
+18.09.2024, 11:20:22 INFO: Start downloading all cars from voivodeship of code: 14
+18.09.2024, 11:20:22 ERROR: ERR_BAD_REQUEST, AxiosError, AxiosError: Request failed with status code 429
+    at settle (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\settle.js:19:12)
+    at IncomingMessage.handleStreamEnd (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\adapters\http.js:599:11)
+    at IncomingMessage.emit (node:events:530:35)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21)
+    at Axios.request (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\Axios.js:45:41)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5), undefined, [object Object], Request failed with status code 429
+18.09.2024, 11:20:22 INFO: Start downloading all cars from voivodeship of code: 16
+18.09.2024, 11:20:22 ERROR: ERR_BAD_REQUEST, AxiosError, AxiosError: Request failed with status code 429
+    at settle (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\settle.js:19:12)
+    at IncomingMessage.handleStreamEnd (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\adapters\http.js:599:11)
+    at IncomingMessage.emit (node:events:530:35)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21)
+    at Axios.request (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\Axios.js:45:41)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5), undefined, [object Object], Request failed with status code 429
+18.09.2024, 11:20:22 INFO: Start downloading all cars from voivodeship of code: 18
+18.09.2024, 11:20:22 ERROR: ERR_BAD_REQUEST, AxiosError, AxiosError: Request failed with status code 429
+    at settle (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\settle.js:19:12)
+    at IncomingMessage.handleStreamEnd (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\adapters\http.js:599:11)
+    at IncomingMessage.emit (node:events:530:35)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21)
+    at Axios.request (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\Axios.js:45:41)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5), undefined, [object Object], Request failed with status code 429
+18.09.2024, 11:20:22 INFO: Start downloading all cars from voivodeship of code: 20
+18.09.2024, 11:20:22 ERROR: ERR_BAD_REQUEST, AxiosError, AxiosError: Request failed with status code 429
+    at settle (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\settle.js:19:12)
+    at IncomingMessage.handleStreamEnd (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\adapters\http.js:599:11)
+    at IncomingMessage.emit (node:events:530:35)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21)
+    at Axios.request (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\Axios.js:45:41)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5), undefined, [object Object], Request failed with status code 429
+18.09.2024, 11:20:22 INFO: Start downloading all cars from voivodeship of code: 22
+18.09.2024, 11:20:24 ERROR: ERR_BAD_REQUEST, AxiosError, AxiosError: Request failed with status code 429
+    at settle (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\settle.js:19:12)
+    at IncomingMessage.handleStreamEnd (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\adapters\http.js:599:11)
+    at IncomingMessage.emit (node:events:530:35)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21)
+    at Axios.request (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\Axios.js:45:41)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5), undefined, [object Object], Request failed with status code 429
+18.09.2024, 11:20:24 INFO: Start downloading all cars from voivodeship of code: 24
+18.09.2024, 11:20:24 ERROR: ERR_BAD_REQUEST, AxiosError, AxiosError: Request failed with status code 429
+    at settle (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\settle.js:19:12)
+    at IncomingMessage.handleStreamEnd (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\adapters\http.js:599:11)
+    at IncomingMessage.emit (node:events:530:35)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21)
+    at Axios.request (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\Axios.js:45:41)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5), undefined, [object Object], Request failed with status code 429
+18.09.2024, 11:20:24 INFO: Start downloading all cars from voivodeship of code: 26
+18.09.2024, 11:20:24 ERROR: ERR_BAD_REQUEST, AxiosError, AxiosError: Request failed with status code 429
+    at settle (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\settle.js:19:12)
+    at IncomingMessage.handleStreamEnd (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\adapters\http.js:599:11)
+    at IncomingMessage.emit (node:events:530:35)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21)
+    at Axios.request (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\Axios.js:45:41)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5), undefined, [object Object], Request failed with status code 429
+18.09.2024, 11:20:24 INFO: Start downloading all cars from voivodeship of code: 28
+18.09.2024, 11:20:24 ERROR: ERR_BAD_REQUEST, AxiosError, AxiosError: Request failed with status code 429
+    at settle (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\settle.js:19:12)
+    at IncomingMessage.handleStreamEnd (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\adapters\http.js:599:11)
+    at IncomingMessage.emit (node:events:530:35)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21)
+    at Axios.request (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\Axios.js:45:41)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5), undefined, [object Object], Request failed with status code 429
+18.09.2024, 11:20:24 INFO: Start downloading all cars from voivodeship of code: 30
+18.09.2024, 11:20:27 ERROR: ERR_BAD_REQUEST, AxiosError, AxiosError: Request failed with status code 429
+    at settle (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\settle.js:19:12)
+    at IncomingMessage.handleStreamEnd (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\adapters\http.js:599:11)
+    at IncomingMessage.emit (node:events:530:35)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21)
+    at Axios.request (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\Axios.js:45:41)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5), undefined, [object Object], Request failed with status code 429
+18.09.2024, 11:20:27 INFO: Start downloading all cars from voivodeship of code: 32
+18.09.2024, 11:20:27 ERROR: ERR_BAD_REQUEST, AxiosError, AxiosError: Request failed with status code 429
+    at settle (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\settle.js:19:12)
+    at IncomingMessage.handleStreamEnd (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\adapters\http.js:599:11)
+    at IncomingMessage.emit (node:events:530:35)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21)
+    at Axios.request (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\Axios.js:45:41)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5), undefined, [object Object], Request failed with status code 429
+18.09.2024, 11:25:48 INFO: Start downloading voivodeships list
+18.09.2024, 11:25:48 INFO: Fetched all voivodeships
+18.09.2024, 11:25:48 INFO: Start downloading all cars from voivodeship of code: 02
+18.09.2024, 11:28:29 INFO: Start downloading voivodeships list
+18.09.2024, 11:28:29 INFO: Fetched all voivodeships
+18.09.2024, 11:28:29 INFO: Start downloading all cars from voivodeship of code: 02
+18.09.2024, 11:51:43 INFO: Fetched all cars from voivodeship of code: 02
+18.09.2024, 11:51:43 INFO: Start downloading all cars from voivodeship of code: 04
+18.09.2024, 11:54:39 ERROR: carsResponse.data.data is not iterable
+18.09.2024, 11:54:39 INFO: Start downloading all cars from voivodeship of code: 06
+18.09.2024, 12:42:02 INFO: Fetched all cars from voivodeship of code: 06
+18.09.2024, 12:42:02 INFO: Start downloading all cars from voivodeship of code: 08
+18.09.2024, 13:27:26 INFO: Fetched all cars from voivodeship of code: 08
+18.09.2024, 13:27:26 INFO: Start downloading all cars from voivodeship of code: 10
+18.09.2024, 14:00:27 INFO: Start downloading voivodeships list
+18.09.2024, 14:00:27 INFO: Fetched all voivodeships
+18.09.2024, 14:00:27 INFO: Start downloading all cars from voivodeship of code: 02
+18.09.2024, 14:01:50 INFO: Start downloading voivodeships list
+18.09.2024, 14:01:50 INFO: Fetched all voivodeships
+18.09.2024, 14:01:50 INFO: Start downloading all cars from voivodeship of code: 02
+18.09.2024, 14:05:26 ERROR: ERR_BAD_REQUEST, AxiosError, AxiosError: Request failed with status code 429
+    at settle (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\settle.js:19:12)
+    at IncomingMessage.handleStreamEnd (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\adapters\http.js:599:11)
+    at IncomingMessage.emit (node:events:530:35)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21)
+    at Axios.request (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\Axios.js:45:41)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5), undefined, [object Object], Request failed with status code 429
+18.09.2024, 14:05:26 INFO: Start downloading all cars from voivodeship of code: 04
+18.09.2024, 14:05:26 ERROR: ERR_BAD_REQUEST, AxiosError, AxiosError: Request failed with status code 429
+    at settle (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\settle.js:19:12)
+    at IncomingMessage.handleStreamEnd (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\adapters\http.js:599:11)
+    at IncomingMessage.emit (node:events:530:35)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21)
+    at Axios.request (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\Axios.js:45:41)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5), undefined, [object Object], Request failed with status code 429
+18.09.2024, 14:05:26 INFO: Start downloading all cars from voivodeship of code: 06
+18.09.2024, 14:05:26 ERROR: ERR_BAD_REQUEST, AxiosError, AxiosError: Request failed with status code 429
+    at settle (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\settle.js:19:12)
+    at IncomingMessage.handleStreamEnd (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\adapters\http.js:599:11)
+    at IncomingMessage.emit (node:events:530:35)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21)
+    at Axios.request (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\Axios.js:45:41)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5), undefined, [object Object], Request failed with status code 429
+18.09.2024, 14:05:26 INFO: Start downloading all cars from voivodeship of code: 08
+18.09.2024, 14:05:26 ERROR: ERR_BAD_REQUEST, AxiosError, AxiosError: Request failed with status code 429
+    at settle (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\settle.js:19:12)
+    at IncomingMessage.handleStreamEnd (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\adapters\http.js:599:11)
+    at IncomingMessage.emit (node:events:530:35)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21)
+    at Axios.request (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\Axios.js:45:41)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5), undefined, [object Object], Request failed with status code 429
+18.09.2024, 14:05:26 INFO: Start downloading all cars from voivodeship of code: 10
+18.09.2024, 14:05:26 ERROR: ERR_BAD_REQUEST, AxiosError, AxiosError: Request failed with status code 429
+    at settle (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\settle.js:19:12)
+    at IncomingMessage.handleStreamEnd (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\adapters\http.js:599:11)
+    at IncomingMessage.emit (node:events:530:35)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21)
+    at Axios.request (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\Axios.js:45:41)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5), undefined, [object Object], Request failed with status code 429
+18.09.2024, 14:05:26 INFO: Start downloading all cars from voivodeship of code: 12
+18.09.2024, 14:05:26 ERROR: ERR_BAD_REQUEST, AxiosError, AxiosError: Request failed with status code 429
+    at settle (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\settle.js:19:12)
+    at IncomingMessage.handleStreamEnd (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\adapters\http.js:599:11)
+    at IncomingMessage.emit (node:events:530:35)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21)
+    at Axios.request (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\Axios.js:45:41)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5), undefined, [object Object], Request failed with status code 429
+18.09.2024, 14:05:26 INFO: Start downloading all cars from voivodeship of code: 14
+18.09.2024, 14:06:26 ERROR: ERR_BAD_RESPONSE, AxiosError, AxiosError: Request failed with status code 504
+    at settle (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\settle.js:19:12)
+    at IncomingMessage.handleStreamEnd (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\adapters\http.js:599:11)
+    at IncomingMessage.emit (node:events:530:35)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21)
+    at Axios.request (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\Axios.js:45:41)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5), undefined, [object Object], Request failed with status code 504
+18.09.2024, 14:06:26 INFO: Start downloading all cars from voivodeship of code: 16
+18.09.2024, 14:09:00 ERROR: carsResponse.data.data is not iterable
+18.09.2024, 14:09:00 INFO: Start downloading all cars from voivodeship of code: 18
+18.09.2024, 14:10:18 ERROR: carsResponse.data.data is not iterable
+18.09.2024, 14:10:18 INFO: Start downloading all cars from voivodeship of code: 20
+18.09.2024, 14:10:45 ERROR: carsResponse.data.data is not iterable
+18.09.2024, 14:10:45 INFO: Start downloading all cars from voivodeship of code: 22
+18.09.2024, 14:11:09 ERROR: carsResponse.data.data is not iterable
+18.09.2024, 14:11:09 INFO: Start downloading all cars from voivodeship of code: 24
+18.09.2024, 14:13:20 INFO: Start downloading voivodeships list
+18.09.2024, 14:13:21 INFO: Fetched all voivodeships
+18.09.2024, 14:13:21 INFO: Start downloading all cars from voivodeship of code: 02
+18.09.2024, 14:15:44 ERROR: ECONNRESET, Error, Error: socket hang up
+    at Function.AxiosError.from (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\AxiosError.js:92:14)
+    at RedirectableRequest.handleRequestError (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\adapters\http.js:620:25)
+    at RedirectableRequest.emit (node:events:518:28)
+    at RedirectableRequest.emit (node:domain:488:12)
+    at ClientRequest.eventHandlers.<computed> (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\follow-redirects\index.js:49:24)
+    at ClientRequest.emit (node:events:518:28)
+    at ClientRequest.emit (node:domain:488:12)
+    at TLSSocket.socketOnEnd (node:_http_client:519:9)
+    at TLSSocket.emit (node:events:530:35)
+    at TLSSocket.emit (node:domain:488:12)
+    at Axios.request (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\Axios.js:45:41)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5), Error: socket hang up, undefined, socket hang up
+18.09.2024, 14:15:44 INFO: Start downloading all cars from voivodeship of code: 04
+18.09.2024, 14:19:08 ERROR: ECONNRESET, Error, Error: socket hang up
+    at Function.AxiosError.from (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\AxiosError.js:92:14)
+    at RedirectableRequest.handleRequestError (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\adapters\http.js:620:25)
+    at RedirectableRequest.emit (node:events:518:28)
+    at RedirectableRequest.emit (node:domain:488:12)
+    at ClientRequest.eventHandlers.<computed> (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\follow-redirects\index.js:49:24)
+    at ClientRequest.emit (node:events:518:28)
+    at ClientRequest.emit (node:domain:488:12)
+    at TLSSocket.socketOnEnd (node:_http_client:519:9)
+    at TLSSocket.emit (node:events:530:35)
+    at TLSSocket.emit (node:domain:488:12)
+    at Axios.request (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\Axios.js:45:41)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5), Error: socket hang up, undefined, socket hang up
+18.09.2024, 14:19:08 INFO: Start downloading all cars from voivodeship of code: 06
+18.09.2024, 14:22:05 ERROR: ECONNRESET, Error, Error: socket hang up
+    at Function.AxiosError.from (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\AxiosError.js:92:14)
+    at RedirectableRequest.handleRequestError (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\adapters\http.js:620:25)
+    at RedirectableRequest.emit (node:events:518:28)
+    at RedirectableRequest.emit (node:domain:488:12)
+    at ClientRequest.eventHandlers.<computed> (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\follow-redirects\index.js:49:24)
+    at ClientRequest.emit (node:events:518:28)
+    at ClientRequest.emit (node:domain:488:12)
+    at TLSSocket.socketOnEnd (node:_http_client:519:9)
+    at TLSSocket.emit (node:events:530:35)
+    at TLSSocket.emit (node:domain:488:12)
+    at Axios.request (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\Axios.js:45:41)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5), Error: socket hang up, undefined, socket hang up
+18.09.2024, 14:22:05 INFO: Start downloading all cars from voivodeship of code: 08
+18.09.2024, 14:24:58 ERROR: ECONNRESET, Error, Error: socket hang up
+    at Function.AxiosError.from (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\AxiosError.js:92:14)
+    at RedirectableRequest.handleRequestError (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\adapters\http.js:620:25)
+    at RedirectableRequest.emit (node:events:518:28)
+    at RedirectableRequest.emit (node:domain:488:12)
+    at ClientRequest.eventHandlers.<computed> (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\follow-redirects\index.js:49:24)
+    at ClientRequest.emit (node:events:518:28)
+    at ClientRequest.emit (node:domain:488:12)
+    at TLSSocket.socketOnEnd (node:_http_client:519:9)
+    at TLSSocket.emit (node:events:530:35)
+    at TLSSocket.emit (node:domain:488:12)
+    at Axios.request (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\Axios.js:45:41)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5), Error: socket hang up, undefined, socket hang up
+18.09.2024, 14:24:58 INFO: Start downloading all cars from voivodeship of code: 10
+18.09.2024, 14:26:46 ERROR: ECONNRESET, Error, Error: socket hang up
+    at Function.AxiosError.from (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\AxiosError.js:92:14)
+    at RedirectableRequest.handleRequestError (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\adapters\http.js:620:25)
+    at RedirectableRequest.emit (node:events:518:28)
+    at RedirectableRequest.emit (node:domain:488:12)
+    at ClientRequest.eventHandlers.<computed> (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\follow-redirects\index.js:49:24)
+    at ClientRequest.emit (node:events:518:28)
+    at ClientRequest.emit (node:domain:488:12)
+    at TLSSocket.socketOnEnd (node:_http_client:519:9)
+    at TLSSocket.emit (node:events:530:35)
+    at TLSSocket.emit (node:domain:488:12)
+    at Axios.request (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\Axios.js:45:41)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5), Error: socket hang up, undefined, socket hang up
+18.09.2024, 14:26:46 INFO: Start downloading all cars from voivodeship of code: 12
+18.09.2024, 14:29:00 ERROR: ECONNRESET, Error, Error: socket hang up
+    at Function.AxiosError.from (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\AxiosError.js:92:14)
+    at RedirectableRequest.handleRequestError (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\adapters\http.js:620:25)
+    at RedirectableRequest.emit (node:events:518:28)
+    at RedirectableRequest.emit (node:domain:488:12)
+    at ClientRequest.eventHandlers.<computed> (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\follow-redirects\index.js:49:24)
+    at ClientRequest.emit (node:events:518:28)
+    at ClientRequest.emit (node:domain:488:12)
+    at TLSSocket.socketOnEnd (node:_http_client:519:9)
+    at TLSSocket.emit (node:events:530:35)
+    at TLSSocket.emit (node:domain:488:12)
+    at Axios.request (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\Axios.js:45:41)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5), Error: socket hang up, undefined, socket hang up
+18.09.2024, 14:29:00 INFO: Start downloading all cars from voivodeship of code: 14
+18.09.2024, 14:31:05 ERROR: ECONNRESET, Error, Error: socket hang up
+    at Function.AxiosError.from (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\AxiosError.js:92:14)
+    at RedirectableRequest.handleRequestError (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\adapters\http.js:620:25)
+    at RedirectableRequest.emit (node:events:518:28)
+    at RedirectableRequest.emit (node:domain:488:12)
+    at ClientRequest.eventHandlers.<computed> (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\follow-redirects\index.js:49:24)
+    at ClientRequest.emit (node:events:518:28)
+    at ClientRequest.emit (node:domain:488:12)
+    at TLSSocket.socketOnEnd (node:_http_client:519:9)
+    at TLSSocket.emit (node:events:530:35)
+    at TLSSocket.emit (node:domain:488:12)
+    at Axios.request (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\Axios.js:45:41)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5), Error: socket hang up, undefined, socket hang up
+18.09.2024, 14:31:05 INFO: Start downloading all cars from voivodeship of code: 16
+18.09.2024, 14:33:14 ERROR: ECONNRESET, Error, Error: socket hang up
+    at Function.AxiosError.from (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\AxiosError.js:92:14)
+    at RedirectableRequest.handleRequestError (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\adapters\http.js:620:25)
+    at RedirectableRequest.emit (node:events:518:28)
+    at RedirectableRequest.emit (node:domain:488:12)
+    at ClientRequest.eventHandlers.<computed> (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\follow-redirects\index.js:49:24)
+    at ClientRequest.emit (node:events:518:28)
+    at ClientRequest.emit (node:domain:488:12)
+    at TLSSocket.socketOnEnd (node:_http_client:519:9)
+    at TLSSocket.emit (node:events:530:35)
+    at TLSSocket.emit (node:domain:488:12)
+    at Axios.request (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\Axios.js:45:41)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5), Error: socket hang up, undefined, socket hang up
+18.09.2024, 14:33:14 INFO: Start downloading all cars from voivodeship of code: 18
+18.09.2024, 14:35:13 ERROR: ECONNRESET, Error, Error: socket hang up
+    at Function.AxiosError.from (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\AxiosError.js:92:14)
+    at RedirectableRequest.handleRequestError (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\adapters\http.js:620:25)
+    at RedirectableRequest.emit (node:events:518:28)
+    at RedirectableRequest.emit (node:domain:488:12)
+    at ClientRequest.eventHandlers.<computed> (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\follow-redirects\index.js:49:24)
+    at ClientRequest.emit (node:events:518:28)
+    at ClientRequest.emit (node:domain:488:12)
+    at TLSSocket.socketOnEnd (node:_http_client:519:9)
+    at TLSSocket.emit (node:events:530:35)
+    at TLSSocket.emit (node:domain:488:12)
+    at Axios.request (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\Axios.js:45:41)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5), Error: socket hang up, undefined, socket hang up
+18.09.2024, 14:35:13 INFO: Start downloading all cars from voivodeship of code: 20
+18.09.2024, 14:37:23 ERROR: ECONNRESET, Error, Error: socket hang up
+    at Function.AxiosError.from (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\AxiosError.js:92:14)
+    at RedirectableRequest.handleRequestError (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\adapters\http.js:620:25)
+    at RedirectableRequest.emit (node:events:518:28)
+    at RedirectableRequest.emit (node:domain:488:12)
+    at ClientRequest.eventHandlers.<computed> (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\follow-redirects\index.js:49:24)
+    at ClientRequest.emit (node:events:518:28)
+    at ClientRequest.emit (node:domain:488:12)
+    at TLSSocket.socketOnEnd (node:_http_client:519:9)
+    at TLSSocket.emit (node:events:530:35)
+    at TLSSocket.emit (node:domain:488:12)
+    at Axios.request (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\Axios.js:45:41)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5), Error: socket hang up, undefined, socket hang up
+18.09.2024, 14:37:23 INFO: Start downloading all cars from voivodeship of code: 22
+18.09.2024, 15:07:48 INFO: Start downloading voivodeships list
+18.09.2024, 15:07:48 INFO: Fetched all voivodeships
+18.09.2024, 15:07:48 INFO: Start downloading all cars from voivodeship of code: 02
+18.09.2024, 15:09:53 ERROR: ECONNRESET, Error, Error: socket hang up
+    at Function.AxiosError.from (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\AxiosError.js:92:14)
+    at RedirectableRequest.handleRequestError (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\adapters\http.js:620:25)
+    at RedirectableRequest.emit (node:events:518:28)
+    at RedirectableRequest.emit (node:domain:488:12)
+    at ClientRequest.eventHandlers.<computed> (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\follow-redirects\index.js:49:24)
+    at ClientRequest.emit (node:events:518:28)
+    at ClientRequest.emit (node:domain:488:12)
+    at TLSSocket.socketOnEnd (node:_http_client:519:9)
+    at TLSSocket.emit (node:events:530:35)
+    at TLSSocket.emit (node:domain:488:12)
+    at Axios.request (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\Axios.js:45:41)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5), Error: socket hang up, undefined, socket hang up
+18.09.2024, 15:09:53 INFO: Start downloading all cars from voivodeship of code: 04
+18.09.2024, 15:12:06 ERROR: ECONNRESET, Error, Error: socket hang up
+    at Function.AxiosError.from (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\AxiosError.js:92:14)
+    at RedirectableRequest.handleRequestError (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\adapters\http.js:620:25)
+    at RedirectableRequest.emit (node:events:518:28)
+    at RedirectableRequest.emit (node:domain:488:12)
+    at ClientRequest.eventHandlers.<computed> (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\follow-redirects\index.js:49:24)
+    at ClientRequest.emit (node:events:518:28)
+    at ClientRequest.emit (node:domain:488:12)
+    at TLSSocket.socketOnEnd (node:_http_client:519:9)
+    at TLSSocket.emit (node:events:530:35)
+    at TLSSocket.emit (node:domain:488:12)
+    at Axios.request (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\Axios.js:45:41)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5), Error: socket hang up, undefined, socket hang up
+18.09.2024, 15:12:06 INFO: Start downloading all cars from voivodeship of code: 06
+18.09.2024, 15:14:05 ERROR: ECONNRESET, Error, Error: socket hang up
+    at Function.AxiosError.from (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\AxiosError.js:92:14)
+    at RedirectableRequest.handleRequestError (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\adapters\http.js:620:25)
+    at RedirectableRequest.emit (node:events:518:28)
+    at RedirectableRequest.emit (node:domain:488:12)
+    at ClientRequest.eventHandlers.<computed> (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\follow-redirects\index.js:49:24)
+    at ClientRequest.emit (node:events:518:28)
+    at ClientRequest.emit (node:domain:488:12)
+    at TLSSocket.socketOnEnd (node:_http_client:519:9)
+    at TLSSocket.emit (node:events:530:35)
+    at TLSSocket.emit (node:domain:488:12)
+    at Axios.request (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\Axios.js:45:41)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5), Error: socket hang up, undefined, socket hang up
+18.09.2024, 15:14:05 INFO: Start downloading all cars from voivodeship of code: 08
+18.09.2024, 15:16:06 ERROR: ECONNRESET, Error, Error: socket hang up
+    at Function.AxiosError.from (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\AxiosError.js:92:14)
+    at RedirectableRequest.handleRequestError (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\adapters\http.js:620:25)
+    at RedirectableRequest.emit (node:events:518:28)
+    at RedirectableRequest.emit (node:domain:488:12)
+    at ClientRequest.eventHandlers.<computed> (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\follow-redirects\index.js:49:24)
+    at ClientRequest.emit (node:events:518:28)
+    at ClientRequest.emit (node:domain:488:12)
+    at TLSSocket.socketOnEnd (node:_http_client:519:9)
+    at TLSSocket.emit (node:events:530:35)
+    at TLSSocket.emit (node:domain:488:12)
+    at Axios.request (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\Axios.js:45:41)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5), Error: socket hang up, undefined, socket hang up
+18.09.2024, 15:16:06 INFO: Start downloading all cars from voivodeship of code: 10
+18.09.2024, 15:17:55 ERROR: ECONNRESET, Error, Error: socket hang up
+    at Function.AxiosError.from (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\AxiosError.js:92:14)
+    at RedirectableRequest.handleRequestError (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\adapters\http.js:620:25)
+    at RedirectableRequest.emit (node:events:518:28)
+    at RedirectableRequest.emit (node:domain:488:12)
+    at ClientRequest.eventHandlers.<computed> (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\follow-redirects\index.js:49:24)
+    at ClientRequest.emit (node:events:518:28)
+    at ClientRequest.emit (node:domain:488:12)
+    at TLSSocket.socketOnEnd (node:_http_client:519:9)
+    at TLSSocket.emit (node:events:530:35)
+    at TLSSocket.emit (node:domain:488:12)
+    at Axios.request (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\Axios.js:45:41)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5), Error: socket hang up, undefined, socket hang up
+18.09.2024, 15:17:55 INFO: Start downloading all cars from voivodeship of code: 12
+18.09.2024, 15:19:55 ERROR: ECONNRESET, Error, Error: socket hang up
+    at Function.AxiosError.from (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\AxiosError.js:92:14)
+    at RedirectableRequest.handleRequestError (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\adapters\http.js:620:25)
+    at RedirectableRequest.emit (node:events:518:28)
+    at RedirectableRequest.emit (node:domain:488:12)
+    at ClientRequest.eventHandlers.<computed> (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\follow-redirects\index.js:49:24)
+    at ClientRequest.emit (node:events:518:28)
+    at ClientRequest.emit (node:domain:488:12)
+    at TLSSocket.socketOnEnd (node:_http_client:519:9)
+    at TLSSocket.emit (node:events:530:35)
+    at TLSSocket.emit (node:domain:488:12)
+    at Axios.request (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\Axios.js:45:41)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5), Error: socket hang up, undefined, socket hang up
+18.09.2024, 15:19:55 INFO: Start downloading all cars from voivodeship of code: 14
+18.09.2024, 15:21:59 ERROR: ECONNRESET, Error, Error: socket hang up
+    at Function.AxiosError.from (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\AxiosError.js:92:14)
+    at RedirectableRequest.handleRequestError (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\adapters\http.js:620:25)
+    at RedirectableRequest.emit (node:events:518:28)
+    at RedirectableRequest.emit (node:domain:488:12)
+    at ClientRequest.eventHandlers.<computed> (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\follow-redirects\index.js:49:24)
+    at ClientRequest.emit (node:events:518:28)
+    at ClientRequest.emit (node:domain:488:12)
+    at TLSSocket.socketOnEnd (node:_http_client:519:9)
+    at TLSSocket.emit (node:events:530:35)
+    at TLSSocket.emit (node:domain:488:12)
+    at Axios.request (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\Axios.js:45:41)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5), Error: socket hang up, undefined, socket hang up
+18.09.2024, 15:21:59 INFO: Start downloading all cars from voivodeship of code: 16
+18.09.2024, 15:46:39 INFO: Start downloading voivodeships list
+18.09.2024, 15:46:39 INFO: Fetched all voivodeships
+18.09.2024, 15:46:39 INFO: Start downloading all cars from voivodeship of code: 02
+18.09.2024, 15:47:22 INFO: Start downloading voivodeships list
+18.09.2024, 15:47:22 INFO: Fetched all voivodeships
+18.09.2024, 15:47:22 INFO: Start downloading all cars from voivodeship of code: 02
+18.09.2024, 15:49:41 INFO: Fetched all cars from voivodeship of code: 02
+18.09.2024, 15:49:41 INFO: Start downloading all cars from voivodeship of code: 04
+18.09.2024, 15:49:41 ERROR: ECONNRESET, Error, Error: socket hang up
+    at Function.AxiosError.from (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\AxiosError.js:92:14)
+    at RedirectableRequest.handleRequestError (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\adapters\http.js:620:25)
+    at RedirectableRequest.emit (node:events:518:28)
+    at RedirectableRequest.emit (node:domain:488:12)
+    at ClientRequest.eventHandlers.<computed> (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\follow-redirects\index.js:49:24)
+    at ClientRequest.emit (node:events:518:28)
+    at ClientRequest.emit (node:domain:488:12)
+    at TLSSocket.socketOnEnd (node:_http_client:519:9)
+    at TLSSocket.emit (node:events:530:35)
+    at TLSSocket.emit (node:domain:488:12)
+    at Axios.request (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\Axios.js:45:41)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5), Error: socket hang up, undefined, socket hang up
+18.09.2024, 15:49:41 INFO: Start downloading all cars from voivodeship of code: 06
+18.09.2024, 15:49:41 INFO: Data written to C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\src\csvFile\cars.csv
+18.09.2024, 15:51:48 INFO: Fetched all cars from voivodeship of code: 06
+18.09.2024, 15:51:48 INFO: Start downloading all cars from voivodeship of code: 08
+18.09.2024, 15:51:48 ERROR: ECONNRESET, Error, Error: socket hang up
+    at Function.AxiosError.from (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\AxiosError.js:92:14)
+    at RedirectableRequest.handleRequestError (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\adapters\http.js:620:25)
+    at RedirectableRequest.emit (node:events:518:28)
+    at RedirectableRequest.emit (node:domain:488:12)
+    at ClientRequest.eventHandlers.<computed> (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\follow-redirects\index.js:49:24)
+    at ClientRequest.emit (node:events:518:28)
+    at ClientRequest.emit (node:domain:488:12)
+    at TLSSocket.socketOnEnd (node:_http_client:519:9)
+    at TLSSocket.emit (node:events:530:35)
+    at TLSSocket.emit (node:domain:488:12)
+    at Axios.request (C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\node_modules\axios\lib\core\Axios.js:45:41)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5), Error: socket hang up, undefined, socket hang up
+18.09.2024, 15:51:48 INFO: Start downloading all cars from voivodeship of code: 10
+18.09.2024, 15:51:48 INFO: Data written to C:\Users\patry\Desktop\Pobieranie danych z CEPIKu\src\csvFile\cars.csv

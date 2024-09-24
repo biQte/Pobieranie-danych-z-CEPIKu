@@ -34,7 +34,7 @@ node ./dist/src/app.js
 
 ## Logowanie działania oraz wyjście danych
 
-1. W trakcie działania aplikacja na bieżąco informuje o postępach, logi znajdują się w folderze ./dist/src/log w pliku z datą kiedy program pracował.
+1. W trakcie działania aplikacja na bieżąco informuje o postępach, logi znajdują się w folderze ./dist/src/logs w pliku z datą kiedy program pracował.
 
 > [!TIP]
 > Rozróżniane są dwa typy logów: INFO - informacje z przebiegu działania aplikacji oraz ERROR - błędy napotkane w trakcie działania aplikacji

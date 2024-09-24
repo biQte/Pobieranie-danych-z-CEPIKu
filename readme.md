@@ -39,7 +39,7 @@ node ./dist/src/app.js
 > [!TIP]
 > Rozróżniane są dwa typy logów: INFO - informacje z przebiegu działania aplikacji oraz ERROR - błędy napotkane w trakcie działania aplikacji
 
-2. Po zakończeniu działania przez aplikację, pobrane dane zapiszą się w pliku ./dist/src/cars.csv który można później zaimportować do aplikacji Excel lub innej preferowanej przez użytkownika
+2. Po zakończeniu działania przez aplikację, pobrane dane zapiszą się w pliku ./dist/src/output/cars.csv który można później zaimportować do aplikacji Excel lub innej preferowanej przez użytkownika
 
 > [!IMPORTANT]
 > Proszę o zgłaszanie wszelkich błędów lub sugestii

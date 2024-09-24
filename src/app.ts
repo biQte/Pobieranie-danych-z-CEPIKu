@@ -4,6 +4,7 @@ import fs from 'fs';
 import path from 'path';
 import { stringify } from 'csv';
 import Logger from './utils/logger';
+import moment from 'moment';
 
 const main = async () => {
     const voivodeships = await VoivodeshipController.getVoivodeshipsList();
@@ -25,7 +26,16 @@ const main = async () => {
         }
     }
 
-    const csvFilePath = path.join(__dirname, 'csvFile', 'cars.csv');
+    const csvFileDirectory = path.join(__dirname, 'output');
+
+    if (!fs.existsSync(csvFileDirectory)) {
+        fs.mkdirSync(csvFileDirectory, { recursive: true });
+    }
+
+    const csvFilePath = path.join(
+        csvFileDirectory,
+        `cars.csv - ${moment().format('DD-MM-YYYY HH:mm')}`,
+    );
     const csvHeaders = [
         'Marka',
         'Model',
@@ -46,7 +56,6 @@ const main = async () => {
         car.count,
     ]);
 
-    // Zapis danych do pliku po zakończeniu zbierania wszystkich danych
     stringify(updatedCsvData, (err, output) => {
         if (err) {
             Logger.log(`ERROR: ${err.message}`);

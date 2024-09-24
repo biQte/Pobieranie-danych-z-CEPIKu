@@ -1,5 +1,8 @@
 # Aplikacja do pobierania danych na temat zarejestrowanych samochodów w bazie dancyh CEPIK
 
+> [!NOTE]
+> Aplikacja do działania wymaga zainstalowanego środowiska node oraz npm. Do łatwego zarządzania instalacjami wersji node oraz npm polecam [NVM](https://github.com/nvm-sh/nvm)
+
 ## Aby odpalić aplikację nalezy:
 
 1. Sklonować kod z repozytorium [GitHub](https://github.com/biQte/Pobieranie-danych-z-CEPIKu)

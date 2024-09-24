@@ -1,7 +1,7 @@
 # Aplikacja do pobierania danych na temat zarejestrowanych samochodów w bazie dancyh CEPIK
 
 > [!NOTE]
-> Aplikacja do działania wymaga zainstalowanego środowiska node oraz npm. Do łatwego zarządzania instalacjami wersji node oraz npm polecam [NVM](https://github.com/nvm-sh/nvm)
+> Aplikacja do działania wymaga zainstalowanego środowiska node w wersji: v20.11 oraz npm w wersji: 10.8. Do łatwego zarządzania instalacjami wersji node oraz npm polecam [NVM](https://github.com/nvm-sh/nvm)
 
 ## Aby odpalić aplikację nalezy:
 

@@ -12,21 +12,18 @@ const main = async () => {
 
     const allCarsData: Record<string, any> = {};
 
-    (async function () {
-        for await (const voivodeship of voivodeships) {
-            const carsDataFromVoivodeship =
-                await CarController.getAllCarsForVoivodeShip(voivodeship.key);
+    for (const voivodeship of voivodeships) {
+        const carsDataFromVoivodeship =
+            await CarController.getAllCarsForVoivodeShip(voivodeship.key);
 
-            for (const key in carsDataFromVoivodeship) {
-                if (allCarsData[key]) {
-                    allCarsData[key].count +=
-                        carsDataFromVoivodeship[key].count;
-                } else {
-                    allCarsData[key] = carsDataFromVoivodeship[key];
-                }
+        for (const key in carsDataFromVoivodeship) {
+            if (allCarsData[key]) {
+                allCarsData[key].count += carsDataFromVoivodeship[key].count;
+            } else {
+                allCarsData[key] = carsDataFromVoivodeship[key];
             }
         }
-    })();
+    }
 
     const csvFilePath = path.join(__dirname, 'csvFile', 'cars.csv');
     const csvHeaders = [
@@ -49,6 +46,7 @@ const main = async () => {
         car.count,
     ]);
 
+    // Zapis danych do pliku po zakończeniu zbierania wszystkich danych
     stringify(updatedCsvData, (err, output) => {
         if (err) {
             Logger.log(`ERROR: ${err.message}`);

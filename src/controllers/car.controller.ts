@@ -55,6 +55,8 @@ export default class CarController {
                 `INFO: Start downloading all cars from voivodeship of code: ${voivodeshipCode}`,
             );
 
+            console.log('called');
+
             let startDateString = '20000101';
             let endDateString = '20020101';
 
@@ -141,11 +143,17 @@ export default class CarController {
                                 ' - ',
                                 endDate,
                             );
-                        } catch (error) {
+                        } catch (e) {
                             retryCount++;
-                            Logger.log(
-                                `ERROR: Failed attempt ${retryCount} for page ${page}: ${error.message}`,
-                            );
+                            if (e instanceof AxiosError) {
+                                Logger.log(
+                                    `ERROR: ${e.code}, ${e.name}, ${e.stack}, ${e.cause}, ${e.response}, ${e.message}`,
+                                );
+                            } else {
+                                Logger.log(
+                                    `ERROR: Failed attempt ${retryCount} for page ${page}: ${e.message}`,
+                                );
+                            }
                         }
                     }
 
